@@ -1,0 +1,21 @@
+# Скомпилированные файлы драйвера
+*.ko
+*.o
+*.mod
+*.mod.c
+*.mod.o
+Module.symvers
+modules.order
+.*.cmd
+
+# Скомпилированные приложения
+app
+packet_sniffer
+test_sender
+
+# Временные файлы
+*~
+.*.swp
+
+# Папки
+drivers_PZ_6/
